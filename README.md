@@ -72,7 +72,7 @@ caching, and aspects.
 
 Installation
 Clone the repository:
-git clone https://github.com/batool2222/my-project..git
+git clone https://github.com/batool2222/BatoolAlshblak.git
 
 Navigate to the project directory:
 cd library-management-system-spring-boot
