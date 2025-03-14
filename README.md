@@ -30,7 +30,7 @@ Gradle
 
 Installation
 Clone the repository:
-git clone https://github.com/batool2222/my-project
+git clone https://github.com/batool2222/my-project..git
 
 Navigate to the project directory:
 cd library-management-system-spring-boot
