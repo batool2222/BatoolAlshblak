@@ -68,7 +68,7 @@ work correctly.
 ● Bonus: Consider additional features, like authorization, effective usage of transactions,
 caching, and aspects.
 
-Please make sure the project repo is public
+
 
 Installation
 Clone the repository:
